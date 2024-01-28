@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Hamburger Navbar</title>
+</head>
+<body>
+
+<div class="navbar" id="myNavbar">
+  <a href="#" class="active">Home</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Contact</a>
+  <!-- The href is set to "javascript:void(0);" as a common technique to create a non-navigating link, preventing page reloads or scrolls, with void(0) executing a JavaScript expression that always returns undefined. -->
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    &#9776;
+  </a>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
