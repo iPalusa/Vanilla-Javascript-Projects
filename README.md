@@ -1,11 +1,41 @@
-# Vanilla Javascript Projects
+# Vanilla Javascript Projects Deployment Links
 
 ### 1. Random Background Color Changer
-**Goal**: The goal of this project is to create a simple and engaging webpage that allows users to change the background color randomly with the click of a button.
 
-**Features**:
-- User-friendly interface with a single button for background color change.
-- Dynamically generates random background colors for a visually appealing experience.
-- Responsive design with CSS styles ensuring a pleasant display on various devices.
-- Hover effect on the button for an interactive user experience.
-- Smooth transition between background color changes using CSS transitions.
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/1-Random_Background_Color_Changer/
+
+### 2. Countdown Timer
+
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/2-Countdown_Timer/
+
+### 3. Image Gallery Fullscreen
+
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/3-Image_Gallery_Fullscreen/
+
+### 4. Dropdown Menu
+
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/4-Dropdown_Menu/
+
+### 5. Hamburger Menu
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/5-Hamburger_Navbar/
+
+### 6. Image Carousel
+
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/6-Image_Carousel/
+
+### 7. Real-time Character Count
+
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/7-Real_Time_Character_Count/
+
+### 8. Scroll to Top Button
+
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/8-Scroll_to_Top_Button/
+
+### 9. Tabs Component
+
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/9-Tabs_Component/
+
+### 10. Dynamic Table Management
+
+**Link**: https://ipalusa.github.io/Vanilla-Javascript-Projects/10-Dynamic_Table_Management/
+
